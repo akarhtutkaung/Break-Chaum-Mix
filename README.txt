@@ -13,3 +13,7 @@ For testing on percentage of correctness, enter the following in the bash
 
 javac testing.java
 java testing [file1 path] [file2 path]
+
+Team Member Names
+------------------
+Akar Htut Kaung
